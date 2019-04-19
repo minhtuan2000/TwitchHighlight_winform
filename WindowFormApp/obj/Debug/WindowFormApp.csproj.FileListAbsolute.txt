@@ -1,0 +1,10 @@
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\bin\Debug\WindowFormApp.exe.config
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\bin\Debug\WindowFormApp.exe
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\bin\Debug\WindowFormApp.pdb
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\obj\Debug\WindowFormApp.Highlighter.resources
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\obj\Debug\WindowFormApp.Properties.Resources.resources
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\obj\Debug\WindowFormApp.csproj.GenerateResource.cache
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\obj\Debug\WindowFormApp.csproj.CoreCompileInputs.cache
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\obj\Debug\WindowFormApp.exe
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\obj\Debug\WindowFormApp.pdb
+D:\FacebookParisHack2019\WindowFormApp\WindowFormApp\obj\Debug\WindowFormApp.csprojAssemblyReference.cache
