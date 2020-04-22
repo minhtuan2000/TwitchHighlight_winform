@@ -1,0 +1,8 @@
+
+*.json
+*.txt
+.vs/WindowFormApp/v15/Server/sqlite3/storage.ide-shm
+.vs/WindowFormApp/v15/Server/sqlite3/storage.ide-wal
+*.ide
+.vs/WindowFormApp/v15/.suo
+.vs/WindowFormApp/v15/.suo
